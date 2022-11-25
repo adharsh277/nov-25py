@@ -1,0 +1,29 @@
+# oywe9
+cars = ["bmw", "audi", "ford"]
+print(cars)
+animals = ["tiger", "lion", "dog"]
+print(animals)
+GoAT = ['messi', 'ronsldo', 'di caprio', 'mardona']
+print(GoAT)
+GoAT = ['messi', 'ronsldo', 'di caprio', 'mardona']
+x = GoAT[0]
+print(x)
+GoAT = ['messi', 'ronsldo', 'di caprio', 'mardona']
+GoAT[2] = 'pele'
+print(GoAT)
+x = len(GoAT)
+print(x)
+# loops
+magnificient = ["neymar", "debrune", 'neuer']
+for x in magnificient:
+    for y in GoAT:
+        print(y)
+        print(x)
+#append ()
+company = ["TCS", "INFOSYS", "GOOGLE"]
+company.append("korena")
+print(company)
+company.pop(1)
+print(company)
+company .remove("GOOGLE")
+print(company)
